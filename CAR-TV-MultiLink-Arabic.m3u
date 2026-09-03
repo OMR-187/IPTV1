@@ -1,0 +1,80 @@
+#EXTM3U
+# CAR TV - Public IPTV sources
+# Each channel has a primary public playlist/source and a fallback public playlist.
+
+#EXTINF:-1 group-title="رياضة",ثمانية 1 | رابط 1
+https://dflive.app.tc/20.m3u8
+#EXTINF:-1 group-title="رياضة",ثمانية 1 | رابط 2
+https://iptv-org.github.io/iptv/regions/arab.m3u
+#EXTINF:-1 group-title="رياضة",ثمانية 2 | رابط 1
+https://dflive.app.tc/60.m3u8
+#EXTINF:-1 group-title="رياضة",ثمانية 2 | رابط 2
+https://iptv-org.github.io/iptv/regions/arab.m3u
+#EXTINF:-1 group-title="رياضة",KSA Sports 1 | رابط 1
+https://edge.taghtia.com/sa/9.m3u8
+#EXTINF:-1 group-title="رياضة",KSA Sports 1 | رابط 2
+https://iptv-org.github.io/iptv/countries/sa.m3u
+#EXTINF:-1 group-title="رياضة",KSA Sports 2 | رابط 1
+https://edge.taghtia.com/sa/10.m3u8
+#EXTINF:-1 group-title="رياضة",KSA Sports 2 | رابط 2
+https://iptv-org.github.io/iptv/countries/sa.m3u
+#EXTINF:-1 group-title="رياضة",KSA Sports 3 | رابط 1
+https://edge.taghtia.com/sa/16.m3u8
+#EXTINF:-1 group-title="رياضة",KSA Sports 3 | رابط 2
+https://iptv-org.github.io/iptv/countries/sa.m3u
+#EXTINF:-1 group-title="رياضة",KTV Sport | رابط 1
+https://iptv-org.github.io/iptv/countries/kw.m3u
+#EXTINF:-1 group-title="رياضة",KTV Sport | رابط 2
+https://iptv-org.github.io/iptv/regions/arab.m3u
+#EXTINF:-1 group-title="أخبار عربية",الجزيرة | رابط 1
+https://iptv-org.github.io/iptv/languages/ara.m3u
+#EXTINF:-1 group-title="أخبار عربية",الجزيرة | رابط 2
+https://iptv-org.github.io/iptv/regions/arab.m3u
+#EXTINF:-1 group-title="أخبار عربية",العربية | رابط 1
+https://iptv-org.github.io/iptv/countries/sa.m3u
+#EXTINF:-1 group-title="أخبار عربية",العربية | رابط 2
+https://iptv-org.github.io/iptv/languages/ara.m3u
+#EXTINF:-1 group-title="أخبار عربية",الحدث | رابط 1
+https://iptv-org.github.io/iptv/countries/sa.m3u
+#EXTINF:-1 group-title="أخبار عربية",الحدث | رابط 2
+https://iptv-org.github.io/iptv/languages/ara.m3u
+#EXTINF:-1 group-title="أخبار خليجية",الإخبارية السعودية | رابط 1
+https://iptv-org.github.io/iptv/countries/sa.m3u
+#EXTINF:-1 group-title="أخبار خليجية",الإخبارية السعودية | رابط 2
+https://iptv-org.github.io/iptv/languages/ara.m3u
+#EXTINF:-1 group-title="أخبار خليجية",قنوات الكويت | رابط 1
+https://iptv-org.github.io/iptv/countries/kw.m3u
+#EXTINF:-1 group-title="أخبار خليجية",قنوات الكويت | رابط 2
+https://iptv-org.github.io/iptv/regions/arab.m3u
+#EXTINF:-1 group-title="أخبار خليجية",قنوات قطر | رابط 1
+https://iptv-org.github.io/iptv/countries/qa.m3u
+#EXTINF:-1 group-title="أخبار خليجية",قنوات قطر | رابط 2
+https://iptv-org.github.io/iptv/regions/arab.m3u
+#EXTINF:-1 group-title="أخبار خليجية",قنوات الإمارات | رابط 1
+https://iptv-org.github.io/iptv/countries/ae.m3u
+#EXTINF:-1 group-title="أخبار خليجية",قنوات الإمارات | رابط 2
+https://iptv-org.github.io/iptv/regions/arab.m3u
+#EXTINF:-1 group-title="أخبار خليجية",قنوات البحرين | رابط 1
+https://iptv-org.github.io/iptv/countries/bh.m3u
+#EXTINF:-1 group-title="أخبار خليجية",قنوات البحرين | رابط 2
+https://iptv-org.github.io/iptv/regions/arab.m3u
+#EXTINF:-1 group-title="أخبار خليجية",قنوات عُمان | رابط 1
+https://iptv-org.github.io/iptv/countries/om.m3u
+#EXTINF:-1 group-title="أخبار خليجية",قنوات عُمان | رابط 2
+https://iptv-org.github.io/iptv/regions/arab.m3u
+#EXTINF:-1 group-title="أفلام",قنوات أفلام عربية | رابط 1
+https://iptv-org.github.io/iptv/categories/movies.m3u
+#EXTINF:-1 group-title="أفلام",قنوات أفلام عربية | رابط 2
+https://iptv-org.github.io/iptv/languages/ara.m3u
+#EXTINF:-1 group-title="مسلسلات",قنوات مسلسلات عربية | رابط 1
+https://iptv-org.github.io/iptv/categories/series.m3u
+#EXTINF:-1 group-title="مسلسلات",قنوات مسلسلات عربية | رابط 2
+https://iptv-org.github.io/iptv/languages/ara.m3u
+#EXTINF:-1 group-title="عربية",قنوات عربية | رابط 1
+https://iptv-org.github.io/iptv/languages/ara.m3u
+#EXTINF:-1 group-title="عربية",قنوات عربية | رابط 2
+https://iptv-org.github.io/iptv/regions/arab.m3u
+
+# ملاحظة:
+# روابط beIN Sports المدفوعة غير مضافة لأنها تتطلب اشتراكًا رسميًا.
+# قوائم IPTV-org عامة وتتغير روابط البث بمرور الوقت.
