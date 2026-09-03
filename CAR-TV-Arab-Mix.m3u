@@ -1,0 +1,27 @@
+#EXTM3U
+# Playlist: CAR TV Arabic Mix
+# Public/free streams only. Premium channels such as beIN Sports are not included unless an official free stream exists.
+
+# ================= SPORTS =================
+#EXTINF:-1 group-title="رياضة",ثمانية 1
+https://dflive.app.tc/20.m3u8
+#EXTINF:-1 group-title="رياضة",ثمانية 2
+https://dflive.app.tc/60.m3u8
+
+# ================= NEWS =================
+# The following official/public playlist is maintained by IPTV-org.
+# For a larger Arabic news selection, use its Arabic-language playlist:
+# https://iptv-org.github.io/iptv/languages/ara.m3u
+
+# ================= MOVIES =================
+# Public movie channels can change frequently.
+# Recommended maintained category playlist:
+# https://iptv-org.github.io/iptv/categories/movies.m3u
+
+# ================= SERIES =================
+# Recommended maintained category playlist:
+# https://iptv-org.github.io/iptv/categories/series.m3u
+
+# ================= ARAB WORLD =================
+# Recommended maintained regional playlist:
+# https://iptv-org.github.io/iptv/regions/arab.m3u
