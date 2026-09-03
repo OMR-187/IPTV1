@@ -1,0 +1,52 @@
+#EXTM3U
+# Generated for CAR TV
+# Public/officially accessible streams only
+
+#EXTINF:-1 group-title="رياضة | السعودية",KSA Sports 1
+https://iptv-org.github.io/streams/sa/KSASports1.m3u8
+#EXTINF:-1 group-title="رياضة | السعودية",KSA Sports 2
+https://iptv-org.github.io/streams/sa/KSASports2.m3u8
+#EXTINF:-1 group-title="رياضة | السعودية",KSA Sports 3
+https://iptv-org.github.io/streams/sa/KSASports3.m3u8
+#EXTINF:-1 group-title="رياضة | السعودية",SSC Action
+https://iptv-org.github.io/streams/sa/SSCAction.m3u8
+#EXTINF:-1 group-title="رياضة | ثمانية",ثمانية 1
+https://dflive.app.tc/20.m3u8
+#EXTINF:-1 group-title="رياضة | ثمانية",ثمانية 2
+https://dflive.app.tc/60.m3u8
+#EXTINF:-1 group-title="أخبار | الخليج والسعودية",الإخبارية السعودية
+https://iptv-org.github.io/streams/sa/AlEkhbariya.m3u8
+#EXTINF:-1 group-title="أخبار | الخليج والسعودية",السعودية الآن
+https://iptv-org.github.io/streams/sa/AlSaudiyaAlaan.m3u8
+#EXTINF:-1 group-title="أخبار | الخليج والسعودية",الجزيرة
+https://iptv-org.github.io/streams/qa/AlJazeera.m3u8
+#EXTINF:-1 group-title="أخبار | الخليج والسعودية",العربية
+https://iptv-org.github.io/streams/sa/AlArabiya.m3u8
+#EXTINF:-1 group-title="أخبار | الخليج والسعودية",الحدث
+https://iptv-org.github.io/streams/sa/AlHadath.m3u8
+#EXTINF:-1 group-title="ترفيه | أفلام",MBC Max
+https://iptv-org.github.io/streams/sa/MBCMax.m3u8
+#EXTINF:-1 group-title="ترفيه | أفلام",MBC 2
+https://iptv-org.github.io/streams/sa/MBC2.m3u8
+#EXTINF:-1 group-title="ترفيه | أفلام",MBC Bollywood
+https://iptv-org.github.io/streams/sa/MBCBollywood.m3u8
+#EXTINF:-1 group-title="ترفيه | مسلسلات",SBC
+https://iptv-org.github.io/streams/sa/SBC.m3u8
+#EXTINF:-1 group-title="ترفيه | مسلسلات",MBC Drama
+https://iptv-org.github.io/streams/sa/MBCDrama.m3u8
+#EXTINF:-1 group-title="خليجية | السعودية",قناة السعودية
+https://iptv-org.github.io/streams/sa/SaudiTV.m3u8
+#EXTINF:-1 group-title="خليجية | الكويت",تلفزيون الكويت
+https://iptv-org.github.io/streams/kw/KTV1.m3u8
+#EXTINF:-1 group-title="خليجية | قطر",تلفزيون قطر
+https://iptv-org.github.io/streams/qa/QatarTV.m3u8
+#EXTINF:-1 group-title="خليجية | الإمارات",أبوظبي
+https://iptv-org.github.io/streams/ae/AbuDhabiTV.m3u8
+#EXTINF:-1 group-title="خليجية | البحرين",البحرين
+https://iptv-org.github.io/streams/bh/BahrainTV.m3u8
+#EXTINF:-1 group-title="خليجية | عُمان",عُمان
+https://iptv-org.github.io/streams/om/OmanTV.m3u8
+
+# Premium | beIN Sports
+# beIN SPORTS channels require an official subscription. Pirate stream URLs are not included.
+# Official: https://www.bein.com/ar/
